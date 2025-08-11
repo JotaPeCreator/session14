@@ -3,5 +3,5 @@ document.addEventListener('DOMContentLoaded',function(){
     button.addEventListener('click', function(){
         const introSection=document.getElementById('intro');
         introSection.innerHTML='<P> El texto ha cambiado despues de hacer click</p>';
-})
-})
+});
+});
