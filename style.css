@@ -27,7 +27,8 @@ footer{
     background-color: rgb(133, 238, 47);
     color: azure;
     text-align: center;
-    padding: fixed;
+    padding: 1em 0;
+    position: fixed;
     width: 100%;
     bottom: 0;
 }
