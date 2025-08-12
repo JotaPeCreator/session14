@@ -46,19 +46,19 @@ main{
     padding: 2em;
 }
 #home{
-    height: 100ph;
+    height: 100vh;
     background-color: #f4f4f4;
 }
 #about{
-    height: 100ph;
+    height: 100vh;
     background-color: #f4f4f4;
 }
 #services{
-    height: 100ph;
+    height: 100vh;
     background-color: #f4f4f4;
 }
 #contact{
-    height: 100ph;
+    height: 100vh;
     background-color: #f4f4f4;
 }
 /* Responsive Design */
