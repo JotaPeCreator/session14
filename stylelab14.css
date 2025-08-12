@@ -37,6 +37,13 @@ nav ul li a{
 nav ul li a:hover{
     background-color: #555;
 }
+section{
+    padding: 2em 0;
+}
+main{
+    margin-top: 4em;
+    padding: 2em;
+}
 #home{
     height: 100ph;
     background-color: #f4f4f4;
